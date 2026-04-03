@@ -1,8 +1,8 @@
 # Informativa sulla Privacy per GuessSix
 
-**Nome dell’App:** GuessSix
-**Sviluppatore:** MyName
-**Email di contatto:** [mymail@gmail.com](mailto:mymail@gmail.com)
+**Nome dell’App:** GuessSix <br>
+**Sviluppatore:** OP_Devs <br>
+**Email di contatto:** [omicciolipaolo.apps@gmail.com](omicciolipaolo.apps@gmail.com) 
 
 **Data di entrata in vigore:** 1 Aprile 2026
 
@@ -21,19 +21,18 @@ Gli utenti non creano account per usare GuessSix.
 Utilizziamo i seguenti servizi di terze parti che possono raccogliere dati nell’ambito delle loro operazioni:
 
 * **Google AdMob** – per la visualizzazione di annunci
-* **RevenueCat** – per la gestione degli acquisti in-app
 
 Ti consigliamo di consultare le loro informative sulla privacy:
 
 * [Privacy Policy AdMob](https://policies.google.com/privacy)
-* [Privacy Policy RevenueCat](https://www.revenuecat.com/privacy)
 
 ## 4. Contenuti e risorse di terze parti
 
 GuessSix utilizza le seguenti risorse esterne nell’app:
 
 * **Lista di parole:** utilizziamo parole italiane dal repository pubblico [napolux/paroleitaliane](https://github.com/napolux/paroleitaliane) secondo la licenza applicabile.
-* **Font:** utilizziamo il Google Font **Archivo Black**. Google potrebbe raccogliere dati come descritto nella sua [Informativa sui Font](https://developers.google.com/fonts/faq).
+* **Lista di parole:** utilizziamo parole inglesi dal repository pubblico [david47k/top-english-wordlists](https://github.com/david47k/top-english-wordlists) secondo la licenza applicabile.
+* **Font:** utilizziamo il Google Font **Archivo Black**. Google potrebbe raccogliere dati come descritto nella sua [Informativa sui Font](https://fonts.google.com/specimen/Archivo+Black/license?preview.script=Latn).
 
 ## 5. Condivisione dei dati
 
@@ -53,5 +52,4 @@ Poiché **non raccogliamo dati personali**, gli utenti non possono richiedere la
 
 ## 9. Contatti
 
-Per domande o dubbi su questa Informativa sulla Privacy, contattaci a:
-**Email:** [mymail@gmail.com](mailto:mymail@gmail.com)
+Per domande o dubbi su questa Informativa sulla Privacy, contattaci a: [omicciolipaolo.apps@gmail.com](omicciolipaolo.apps@gmail.com) 
